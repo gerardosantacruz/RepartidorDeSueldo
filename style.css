@@ -1,0 +1,15 @@
+.sombra{
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.fondo{
+    background-image: url('fondo.png');
+}
+
+main {
+    margin-top: 20px;    
+}
+
+.container {
+    padding-top: 20px;    
+}
